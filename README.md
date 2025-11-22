@@ -13,7 +13,7 @@ I love turning ideas into real code and continuously learning new technologies.
 ---
 
 ## 🛠️ Skills & Tools
-**Languages:** JavaScript, HTML, CSS, Python  
+**Languages:** JavaScript, HTML, CSS
 **Frontend:** React, TailwindCSS, Bootstrap, Daisy ui,Flowbite ui  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB, Firebase  
