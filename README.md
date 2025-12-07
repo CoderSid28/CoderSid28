@@ -46,15 +46,9 @@ I'm a **Full-Stack Developer** passionate about building scalable web applicatio
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+## 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSid28&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoderSid28&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSid28&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
-</div>
-
----
 
 <p align="center">
   <i>Let's connect and build something amazing together!</i>
