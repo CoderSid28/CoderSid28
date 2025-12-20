@@ -39,6 +39,11 @@ I'm a **Full-Stack Developer** passionate about building scalable web applicatio
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
+### **Deployment & Hosting**
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
 ### **Tools & Environment**
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -48,7 +53,6 @@ I'm a **Full-Stack Developer** passionate about building scalable web applicatio
 ---
 ## 🤣 Daily Dose of Dev Humor
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-
 
 <p align="center">
   <i>Let's connect and build something amazing together!</i>
